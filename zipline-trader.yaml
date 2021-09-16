@@ -1,0 +1,6 @@
+alpaca:
+  key_id: "PK30J80FW9DT0JQGOPFR"
+  secret: "1K8MT0UMCHqbY8GSBXhQvA6hMbKK6bDBvgQdPvTg"
+  base_url: https://paper-api.alpaca.markets
+  universe: SP500
+  custom_asset_list: GOOG, AAPL, TSLA, AMZN, NUE
